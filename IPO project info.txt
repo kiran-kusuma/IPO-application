@@ -1,0 +1,46 @@
+Ganesh = 30000
+bharat = 5000
+birthday photos = 
+
+
+total assets -54716
+
+jan rent -2000
+
+
+54716+15000 = 69716
+
+now 16807+30000+5000+14915+3000 = 69722
+
+
+
+
+Interface -- IPo current anf future ipo it's GMP and details and subscription and check allotment
+
+	-take inside accounts name,phone r,pan, phone whatapp link ---accounts demat account holders
+	-invenment transaction account name phone number   investment balance p/l
+	-account data of Tranction debit and credit amount
+	-General Transactions from to general account
+	-ranking based on subscription and GmP and size of Issue
+	-ipo apply  to get demat accounts list, sort it using highest with top balance
+	-name click , apply cost - after balance ; for all 
+	-apply for this name,photo , amount whatapp meassage at same time , transactions for last five to general 
+	-bse data source and other check 
+	-show ipo funded account for each ipo , apply status  funded,applied,alloted/not allocated 
+	-general transcation add funds(), available suggestion for upcoming ipo adding funds 
+	-from  WhatsApp, account message; transaction to create a link and send meassage to from
+	-investment transaction account , send to admin , general to add investment res   transaction to general account
+	-genral transaction to iniate by admin; transaction 
+	-p/l profit system distribute based on investment and duration ; profit tranction not to investment 
+	-analysis board for ipo alloments getting alloatment, 
+	-front page total investment and total profit , asset under management, urrent investment spending : applied sum
+	-current available fund,
+	-transaction type transfer, apply ipo, invement, profit
+	-general investment per ipo
+
+--general account -name,phone number,pan number(optional),available amount, applied amount, ipos list
+--transactions type (profit,trnsfer,investment,profit)  each has amount from and to 
+--
+
+
+whatapp messaging
